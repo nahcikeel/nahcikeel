@@ -1,7 +1,7 @@
 # KICHAN'S GITHUB 
 
 ## Career
-- Majored in Venture-Management & Big-Data at Hansung University
+- Majored in Venture-Management & Big-Data
 - Completed Tacademy ASAC Data Analysis Course
 
 ## Skills
