@@ -1,4 +1,5 @@
 # KICHAN'S GITHUB 
+- 📧email: kiruk313@naver.com
 
 ## Career
 - Majored in Venture-Management & Big-Data
