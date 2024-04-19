@@ -29,6 +29,7 @@
 | 컴퓨터활용능력 1급              | 2022/06/17  | 대한상공회의소          |
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahcikeel&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=nahcikeel&show_icons=true">
 
 
 
