@@ -2,7 +2,7 @@
 
 ## Career
 - Majored in Venture-Management & Big-Data
-- Completed Tacademy ASAC Data Analysis Course
+- Completed SK-Tacademy ASAC Data Analysis Course
 
 ## Skills
 ### Languages:
