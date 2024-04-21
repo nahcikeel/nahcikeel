@@ -8,14 +8,24 @@
 
 ## Skills
 ### Languages:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Tools:
-[![Google Colab](https://img.shields.io/badge/Google_Colab-yellow?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://products.office.com/en-us/excel)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-red?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+![Google Colab](https://img.shields.io/badge/Google_Colab-yellow?style=for-the-badge&logo=google-colab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft-Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-red?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Communication:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ## Certificate
 ### Awards
