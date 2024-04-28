@@ -36,7 +36,7 @@
 ### Examinations
 | 시험명                           | 취득일        | 주관                    |
 |-------------------------------|------------|------------------------|
-| 데이터분석 준전문가(ADsP)       | 2024.03/22  | 한국데이터산업진흥원    |
+| 데이터분석 준전문가(ADsP)       | 2024/03/22  | 한국데이터산업진흥원    |
 | 컴퓨터활용능력 1급              | 2022/06/17  | 대한상공회의소          |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahcikeel)](https://github.com/anuraghazra/github-readme-stats)
