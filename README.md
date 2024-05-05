@@ -1,12 +1,16 @@
-# KICHAN'S GITHUB 
+# 👋KICHAN'S GITHUB 
+
+Hi, I'm Kichan Lee. I'm studying Data Science & Data Analysis.  
+I enjoy writing✍️ and sports🏋️‍♂️! Check out my GitHub profile for more!
+
 - 📧email: kiruk313@naver.com
 - 📝blog:https://blog.naver.com/kiruk313
 
-## Career
+## 📈Career
 - Majored in Venture-Management & Big-Data
 - Completed SK-Tacademy ASAC Data Analysis Course
 
-## Skills
+## 💡Skills
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
@@ -27,7 +31,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## Certificate
+## 📜Certificate
 ### Awards
 | 대회명                                             | 수상명   | 주관기관                   | 훈격               |
 |-------------------------------------------------|---------|--------------------------|-------------------|
@@ -38,9 +42,6 @@
 |-------------------------------|------------|------------------------|
 | 데이터분석 준전문가(ADsP)       | 2024/03/22  | 한국데이터산업진흥원    |
 | 컴퓨터활용능력 1급              | 2022/06/17  | 대한상공회의소          |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahcikeel)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
