@@ -9,7 +9,7 @@ I enjoy writing and sports! Check out my GitHub profile for more!
 ## 📈Career
 - Majored in Venture-Management & Big-Data
 - Completed SK-Tacademy ASAC Data Analysis Course
-
+ 
 ## 💡Skills
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
