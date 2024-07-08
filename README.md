@@ -30,9 +30,7 @@ I enjoy writing and sports! Check out my GitHub profile for more!
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
-## 📜Certificate
-### Awards
+## Awards
 | 대회명                                             | 수상명   | 주관기관                   | 훈격               |
 |-------------------------------------------------|---------|--------------------------|-------------------|
 | 2023 빅콘테스트 빅데이터 플랫폼 분야          | 최우수상 | 과학기술정보통신부, NIA  | 한국부동산원장상   |
