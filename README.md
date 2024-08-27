@@ -4,7 +4,7 @@ Hi, I'm Kichan Lee. I'm studying Data Science & Data Analysis.
 I enjoy writing and sports! Check out my GitHub profile for more!
 
 - 📧email: kiruk313@naver.com
-- 📝blog: https://blog.naver.com/kiruk313
+- 📝blog: https://velog.io/@nahcikeel/posts
 
 ## 📈Career
 - Majored in Venture-Management & Big-Data
